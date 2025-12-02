@@ -17,14 +17,14 @@ export function Interest() {
 
 const images = [
     // Row 1
-    "/assets/interests/1.jpg",
-    "/assets/interests/2.jpg",
-    "/assets/interests/3.jpg",
+    "/assets/interests/1.JPG",
+    "/assets/interests/2.JPG",
+    "/assets/interests/3.JPG",
 
     // Row 2
-    "/assets/interests/4.jpg",
-    "/assets/interests/5.jpg",
-    "/assets/interests/6.jpg",
+    "/assets/interests/4.JPG",
+    "/assets/interests/5.JPG",
+    "/assets/interests/6.JPG",
 
     // Row 3
     "/assets/interests/7.jpeg",
