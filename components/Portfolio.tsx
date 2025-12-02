@@ -136,7 +136,7 @@ const content = [
                 Projet en cours…
             </div>
         ),
-        link: null,
+        link: undefined,
     },
 ];
 
